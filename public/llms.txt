@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Stay informed with ABC News 88, Portsmouth Virginia&#39;s premier source for live news broadcasting, local weather radar, and VDOT traffic updates. Watch us on Cox Cable and mobile.
+
+### Live Coverage
+https://example.com/live
+Experience live news broadcasting as it happens with ABC News 88&#39;s teleprompter-equipped cameras covering Portsmouth and surrounding areas. Stream now on any device.
+
+### Weather & VDOT Traffic
+https://example.com/weather-traffic
+Get accurate local weather radar forecasts and live VDOT traffic updates for Portsmouth Virginia. The weather channel live data keeps you prepared and on schedule daily.
+
+### Community & Contact
+https://example.com/contact
+Join the ABC News 88 community in Portsmouth Virginia. Share news tips, request coverage, or reach our broadcast team. We&#39;re on your side and here to serve you.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
